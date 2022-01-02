@@ -1,7 +1,7 @@
 import os
 import readchar
 import random
-map_width = 20
+map_width = 23
 map_height = 15
 pos_x = 0
 pos_y = 1
